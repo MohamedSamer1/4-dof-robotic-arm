@@ -490,8 +490,7 @@ These additions would transform the platform from an educational manipulator int
 ## 📄 Documentation
 
 A detailed engineering report describing the design methodology, mechanical development, electronics integration, software implementation, and project outcomes is included in the repository:
-
-docs/Arduino-Based-Robotic-Arm-with-Mechanical-Gripper-Report.pdf
+**[`docs/Arduino-Based-Robotic-Arm-with-Mechanical-Gripper-Report.pdf`](docs/Arduino-Based-Robotic-Arm-with-Mechanical-Gripper-Report.pdf)**.
 
 
 The report covers:
