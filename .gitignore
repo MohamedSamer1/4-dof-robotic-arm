@@ -1,0 +1,20 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arduino
+*.tmp
+
+# MATLAB
+*.asv
+*.autosave
+
+# Logs
+*.log
