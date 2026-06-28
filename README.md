@@ -508,19 +508,7 @@ The report covers:
 
 ---
 
-## 👥 Team
 
-This project was developed as part of the **Mechatronics Engineering** curriculum at **Modern Sciences and Arts University (MSA University)**.
-
-**Team Members**
-
-- Mohamed Samer
-- Ahmed Ibrahim
-- Ahmed Hesham
-- Omar Mahmoud
-- Youssef Mohamed
-
----
 
 ## 📚 References
 
